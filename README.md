@@ -28,10 +28,8 @@ Made with ❤️ Patrick Narcisse (aka narcpat)
 
 ## Credits
 
-I made use of our previous "Pizza Hunt" app for much of the logic in building this app.
-
-Where other resources were used for direction/inspiration, they were commented in the code.
+I made use of our previous "Pizza Hunt" app as well as the "Food Festival" app for much of the logic in building this app.
 
 ## Special Thanks
 
-A big thank you to my Teacher's assistant Mija and to my tutor Sachin who each helped me get unstuck at various stages.
+A big thank you to my Teacher's assistant Mija, my tutor Ali and also Colin from AskBCS who each helped me get unstuck at various stages.
