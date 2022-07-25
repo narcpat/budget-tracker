@@ -1,6 +1,7 @@
 {
   "name": "budget app PWA",
   "short_name": "budget app",
+  "description": "An app that allows you to track your budget",
   "icons": [
     { 
       "src":"icons/icon-72x72.png",
@@ -43,8 +44,8 @@
       "type":"image/png"
     }
   ],
-  "theme_color": "#ffffff",
+  "theme_color": "#01579b",
   "background_color":"#ffffff",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone"
 }
