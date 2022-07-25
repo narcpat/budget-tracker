@@ -21,6 +21,7 @@ mongoose.connect(
   {
     useNewUrlParser: true,
     useFindAndModify: false,
+    useUnifiedTopology: true,
   }
 );
 
